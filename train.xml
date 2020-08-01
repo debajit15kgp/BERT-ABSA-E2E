@@ -1,0 +1,5562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sentences>
+	<sentence>
+	 	<text>If you can avoid the crowds this is a beautiful section of the China Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="section of the China Great Wall" from="48" to="78" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="beautiful" from="38" to="46"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We went in the month of March and were 3 of less than 200 people at this Scenic spot attraction .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="spot" from="80" to="83" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Scenic" from="73" to="78"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The hazy conditions and the crisp cold was pretty nice compared to the 1000's of people that go to this section during the holidays and tourist season .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you happen to drive you might find a few restaurants that cook a fantastic duck at a fraction of the prices in Beijing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="restaurants" from="44" to="54" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="cook a fantastic duck at a fraction of the prices" from="61" to="109"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is a reconstructed part of the wall , and very touristy .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="part of the wall" from="24" to="39" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="very touristy" from="47" to="59"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Like in all big entertainment areas in China , there is a modern visitor centre with nice facilities at the entrance to the park .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="visitor centre" from="65" to="78" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="nice facilities" from="85" to="99"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You pay ticket to the wall and separately another one to the cable car .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ticket" from="8" to="13" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="cable car" from="61" to="69" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>But beware that it is quite a walk up to the cable car, Although once you are there , it is all worth it !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="walk up to the cable car" from="30" to="53" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="beware" from="4" to="9"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="cable car" from="45" to="53" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="worth" from="96" to="100"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Also bear in mind that the Wall itself is also quite steep , so it is quite some exercise especially if you are senior or have health issues .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="the Wall" from="23" to="30" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="53" to="57"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Below at the exit you find an endless souvenir area with Burger King and overpriced shops .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="souvenir area" from="38" to="50" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="shops" from="84" to="88" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="overpriced" from="73" to="82"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is greatest place that l see how they made so strong and big they made a good jop l like to see this place .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="place" from="106" to="110" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="greatest" from="8" to="15"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Our guide took us to the Great Wall at Mutianyu and it was fantastic .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="4" to="8" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Mutianyu" from="39" to="46" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fantastic" from="59" to="67"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There were lots of people but it was not unbearably crowded .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We took the cable up and then walked to the toboggan / chairlift section .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable" from="12" to="16" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan" from="44" to="51" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="chairlift" from="55" to="63" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Expect rough terrain !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="terrain" from="13" to="19" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="rough" from="7" to="11"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I consider myself to be pretty fit but I was cautious with my step as it would be easy to take a nasty tumble .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The views are outstanding .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="4" to="8" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="outstanding" from="14" to="24"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I chickened out of the toboggan ride but my son loved it .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="toboggan ride" from="23" to="35" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="loved" from="48" to="52"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I choose the more sedate method of cable car for the descent .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="35" to="43" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="sedate" from="18" to="23"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>That was lovely .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You do need a separate ticket .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ticket" from="23" to="28" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Cable car ticket does not cover either.</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Cable car ticket" from="0" to="15" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Lots of stalls at the bottom if you wish to stock up on souvenirs .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="stalls" from="8" to="13" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Lots of" from="0" to="6"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Be prepared to haggle .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>the cable car one way cost your 100CNY and wiating the line foe 2 hours .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="4" to="12" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wiating the line foe 2 hours" from="43" to="70"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>too many people , please do not go , .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="people" from="9" to="14" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="too many" from="0" to="7"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We felt lucky that we chose this part of the Great Wall to visit .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="part of the Great Wall" from="33" to="54" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="lucky" from="8" to="12"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was not crowded .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We easily boarded chairlifts up the steep mountain to the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="chairlifts" from="18" to="27" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="easily" from="3" to="8"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>After walking up the stairs on the wall and pausing a bit to enjoy the views we boarded toboggans down the hill .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="stairs" from="21" to="26" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views" from="71" to="75" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="enjoy" from="61" to="65"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggans" from="88" to="96" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was so much fun .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Even my 5 year old enjoyed it .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Awe inspiring and historically amazing wonder .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wonder" from="39" to="44" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="historically amazing" from="18" to="37"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I do not want to give any stars to this semi-tour !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Very unpleasant experience during our tour .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="16" to="25" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="unpleasant" from="5" to="14"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I really wonder about all these good reviews !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="reviews" from="37" to="43" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="good" from="32" to="35"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Unfortunately , this is one of the worst experience I have had with a tour provider and not recommend this tour based on my experience .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="124" to="133" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="worst" from="35" to="39"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Michael paid us some money ( maybe not enough ) to take a taxi instead of picking up service .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="taxi" from="58" to="61" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Although it was an English tour , most of the people in our bus were Chinese and because of that Michael spoke in Chinese all the time and he did not give us any explanation about great wall in English !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="bus" from="60" to="62" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>All in all , that was not a tour and there was no tour guide .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>That was just transportation service in uncomfortable bus !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="bus" from="54" to="56" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="uncomfortable" from="40" to="52"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>do not avoid the area , just be cautious with choosing your guide !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="60" to="64" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="be cautious" from="29" to="39"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The Mutianyu section of the great wall is one of the oldest SECTION of the great wall , the 1st time it was built about 3000 years ago - the Warring state dynasty ( 7 century B.C ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu section" from="4" to="19" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>and what we can see now , it was built at the beginning of the Ming Dynasty .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is different from the other sections of the great wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>the battlement were built on both side along the great wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="battlement" from="4" to="13" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>just in case the enemy come from the backside the soldiers can shoot for both directions !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>NEVER take a trip with any travel agency in Beijing unless they guarantee that their trips are without ANY shopping OR museums ( as they call them ) !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="travel agency" from="27" to="39" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="NEVER take a trip" from="0" to="16"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="shopping" from="107" to="114" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="museums" from="119" to="125" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Our trip began at 8:00 , but we reached the Wall only at 14:00 .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We spent these hours visiting museums where chinese professional guides were trying to sell us everything - tea , silk , pearls , chinese herbal remidies , vases ect ect , Our guide was always complaining about her salary and how poor she was ( at the same time always playing with her galaxy note phone , which can cost a lot ) .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The price of the tour originally included - the great wall of China , Ming Toombs and a chinese lunch .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="great wall of China" from="48" to="66" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Ming Toombs" from="70" to="80" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="chinese lunch" from="88" to="100" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Well we saw the great wall , but Ming Toombs were cancelled , because we spent alot of time at the museums , a chinese lunch was only a small bowl of rice , .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Ming Toombs" from="33" to="43" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="museums" from="99" to="105" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="chinese lunch" from="111" to="123" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="only a small bowl of rice" from="129" to="153"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There was too much people .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="people" from="19" to="24" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="too much" from="10" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Fogs everywhere .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>i thought that it was a big hassle and i did not like the stuff there .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was very pretty though .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Just a simple short , beware when in China .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You have no rights and they were not very friendly to the group of Americans we were with .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Do not pay in advance for anything and travel in groups only .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you make the wrong mistake you may end up in a nightmare situation with no help .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The Great Wall is an absolute must see if you are visiting the area !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Great Wall" from="4" to="13" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="must see" from="30" to="37"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I would recommend booking a tour , my partner and I did so which made things much easier than trying to be clever and go it alone .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tour" from="28" to="31" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="easier" from="82" to="87"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We got a ride to the wall and back , lunch too .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ride" from="9" to="12" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Definitely recommend the cable car for the way up and down - the views are sensational !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="65" to="69" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="sensational" from="75" to="85"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Do be aware that the cafe is really expensive.</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cafe" from="21" to="24" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="expensive" from="36" to="44"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>100rmb for two bottles of water and two tiny cans of beer !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>so bring your own drinks or buy them at the bottom .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Overall an amazing experience that I will remember forever .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="19" to="28" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="11" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I have been to the wall twice and both the same section .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I find this part of the wall less touristy with all the comforts required .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="part of the wall" from="12" to="27" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="less touristy" from="29" to="41"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Once your at the top , if you take the righy side , less people and its a steep walk .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The left side is where the crowd goes .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Its a steep walk , so be prepared and take your time .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Allow 3 hours to walk once your at the top .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We walked towards the right to the ladt point and the views are amazing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ladt point" from="35" to="44" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="views are amazing" from="54" to="70"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You do not need a guide , although good to have a history download prior to the journey .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="18" to="22" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Leave beijing at 7am and you will be fine and miss the crowds .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>When you think about going to Great wall you think of spectacular views , historic masterpieces and raw flavor of local culture .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="66" to="70" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="spectacular" from="54" to="64"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="masterpieces" from="83" to="94" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="historic" from="74" to="81"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="flavor" from="104" to="109" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="raw" from="100" to="102"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="culture" from="120" to="126" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="local" from="114" to="118"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Well our trip was rather disappointing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="trip" from="9" to="12" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="disappointing" from="25" to="37"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We hired a cab from the City and learning that Mutianyu is more raw ( compared to Badaling ) we chose to visit here .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="47" to="54" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="raw" from="64" to="66"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Badaling" from="82" to="89" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was 37 degrees C and high humidity .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Haze in Beijing is not just confined to the cities , it has made its way to the Great wall which obstructs your longe range view all the time and the photos also captures the same .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="photos" from="150" to="155" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Lot of tourists , unlike what we see on the photos .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tourists" from="7" to="14" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Lot of" from="0" to="5"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Most fun part was Toboggan ride .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Toboggan ride" from="18" to="30" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Most fun part" from="0" to="12"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Seeing the Great Wall was amazing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Great Wall" from="11" to="20" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="26" to="32"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If we had it to do over again , here's what we would do .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There are two cable cars up to the top - one to a higher section and one to a lower section .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="14" to="22" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="higher section" from="50" to="63" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="lower section" from="78" to="90" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>What we would have done differently is taken the cable car up to the high section , hiked down to the lower section and fine the toboggan down to the bottom .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="49" to="57" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="high section" from="69" to="80" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="lower section" from="102" to="114" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan" from="129" to="136" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You have to be younger than 60 to do the toboggan .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="toboggan" from="41" to="48" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Even with missing the toboggan , seeing the great was was amazing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="toboggan" from="22" to="29" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The engineering and architecture from that long ago was so impressive .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="engineering" from="4" to="14" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="impressive" from="59" to="68"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="architecture" from="20" to="31" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="impressive" from="59" to="68"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was one of the highlights of our trip .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>When you plan it , expect it to take 1-2 hours linger than you expect to get there and back due to traffic .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Be wary of dodgy tour guides to the Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tour guides" from="17" to="27" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="dodgy" from="11" to="15"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We were approached by a woman at the Forbidden City offering her company's tour services National travel Service , Linda is the manager .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>As she asked for 400 RMB for an English speaking guide , a driver and a 8 hr tour which included the Summer Palace and other free attractions we thought this was a great deal .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="English speaking guide" from="32" to="53" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="driver" from="59" to="64" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Summer Palace" from="101" to="113" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Well we we were taken to the Great Wall but not the Summer palace and spent most of the day being dragged to one venue after another where people tried to sell us things we did not want .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Summer palace" from="52" to="64" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>At the conclusion of a generally disappointing day , we paid the guide who then demanded another 200 RMB from us , when we refused to pay they dumped us to a railway way station refusing to drive us back to our Hotel .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="railway way station" from="158" to="176" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There must be more enjoyable ways to see the Great Wall !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Took tour to Great Wall a good drive outside of Beijing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tour to Great Wall" from="5" to="22" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="good drive" from="26" to="35"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Unfortunately for us it snowed that day .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The trek up to the gondola and the trek up is definitely not for people with health issues .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="trek up to the gondola" from="4" to="25" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="not for people with health issues" from="57" to="89"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Because of the snow the walkways were very icy and slippery .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="walkways" from="24" to="31" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="very icy and slippery" from="38" to="58"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The views are fantastic .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="4" to="8" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fantastic" from="14" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I would definitely recommend going well worth the drive .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I was pleased we went , however , A five and a half hour return to Beijing in horrendous traffic certainly took the shine off the experience .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="traffic" from="89" to="95" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="horrendous" from="78" to="87"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="experience" from="130" to="139" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="shine" from="116" to="120"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Had a drive and a quick trip out in the morning , no crowds and it did not take us long before we were on the wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Fortunate that the day was not too hot , can not imagine doing it in the heat , as others have mentioned a steep little climb to the cable car .</text>
+	 	<aspectTerms>
+	 	 	<aspect term=" climb to the cable car" from="119" to="141" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="107" to="111"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>On the wall great clear views , and fantastic to see the wall snaking along the ridge .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="view" from="24" to="27" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="12" to="16"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="wall snaking along the ridge" from="57" to="84" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fantastic" from="36" to="44"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>For me personally it was overrated however for my husband he rated it highly , everyone is different .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Would I visit again , No .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>PS wear a hat and comfortable walking shoes .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I visited about a year ago through Winter with a few friends .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>When we were on our way to the Great Wall , the view of it was astounding and completely breathtaking .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="view" from="48" to="51" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="astounding and completely breathtaking" from="63" to="100"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>But as we stated climbing the wall , I was quite disappointed .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There were no available guides in english and we were all condemned to wonder around the wall and poke guess what this and that hole were from / for .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guides in english" from="24" to="40" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="no available" from="11" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I was quite disappointed , and really wanted to know more about the wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If I were to suggest something , it would be to look up some historical facts about the wall before going .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="historical facts about the wall" from="61" to="91" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The fact that I went through winter did not influence the amount of tourists that climbed the wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>So beware .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The wall is always full .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="The wall" from="0" to="7" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="always full" from="12" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Have been to many sections .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This section too touristy , Chairlift , Slide, All expensive .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Chairlift" from="28" to="36" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="expensive" from="51" to="59"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Slide" from="40" to="44" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="expensive" from="51" to="59"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Too many cheap souvineer stores .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="souvineer store" from="15" to="29" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Too many cheap" from="0" to="13"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Bad restaurants .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Plus Burger King , KFC , etc , Trying to sell you pictures everywhere .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Other than the Wall itself , makes you feel like you are in a bad amusement park .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="amusement park" from="66" to="79" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="bad" from="62" to="64"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>10 years ago was much nicer before the government created the tourist center .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We had a really great time .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was a very good day and had good weather .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="weather" from="36" to="42" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="good" from="14" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was a an exciting time .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There is always a lot of people although they move through very quickly .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="people" from="25" to="30" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was a wonderful feeling that we were on something that was so immense and standing in the history of China .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was the Chinese culture that amazed us .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="culture" from="19" to="25" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazed" from="32" to="37"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A must not miss experience .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="16" to="25" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="must not miss" from="2" to="14"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>So , we got to see the Great Wall of China .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Well , its a bit like saying Brittan is Great , so those who believe will think it is but we found it all a bit underwhelming .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You get there , have a look , its in your mind you have to walk a couple of miles but for what ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Take a few pictures of the scenery , hhmmm .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="scenery" from="27" to="33" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>For Mr H the best part was going up on a cable car and going back down on the carts !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="41" to="49" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="best part" from="13" to="21"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="carts" from="78" to="82" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="best part" from="13" to="21"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Philistine maybe , you decide !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This was an amazing tour .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tour" from="20" to="23" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="12" to="18"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>My son and I were the only two people on the tour , plus a guide and driver , both of whom were excellent .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="59" to="63" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="excellent" from="96" to="104"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="driver" from="69" to="74" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="excellent" from="96" to="104"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We went on a Sunday morning I do not know what the wall is like other times , but whereas I expected it to be crawling with tourists , we just about had it to ourselves just a few others here and there .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>As noted in other reviews , it is definitely strenuous lots of steps and lots of steep topography up and down through the mountainous terrain .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="steps" from="63" to="67" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="strenuous lots" from="45" to="58"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="topography" from="87" to="96" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="81" to="85"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="terrain" from="134" to="140" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="mountainous" from="122" to="132"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Just hang in there and walk as much of it as you can you will never forget it !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Another review mentioned riding the toboggan down I agree , this is a definite must-do .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="toboggan" from="36" to="43" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="must-do" from="79" to="85"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You take a chairlift up , which , given the setting , is breathtaking enough , but the toboggan is just a fun thing to do at the end .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="chairlift" from="11" to="19" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="breathtaking enough" from="57" to="75"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan" from="87" to="94" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun" from="106" to="108"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I will never forget this tour !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Amazing few hours on the Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Great Wall" from="25" to="34" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Amazing" from="0" to="6"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The snow set the mood of such a beautiful and peaceful place .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="place" from="55" to="59" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="beautiful and peaceful" from="32" to="53"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The amount of labor each stone took to build such a monument is incredible .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="monument" from="52" to="59" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="incredible" from="64" to="73"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>My friend and I hired a taxi for the day and left early from Beijing .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is about 1.5 drive to the mountains of the Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="mountains of the Great Wall" from="29" to="55" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was lightly snowing when we arrived which in return made for very slick walking conditions .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="walking conditions" from="75" to="92" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="very slick" from="64" to="73"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Proper shoes is a must for any time walking on the Wall but the snow made it very challenging to walk great distance , very slick on these stones and steep stairs .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="stairs" from="156" to="161" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="150" to="154"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I arrived early in December 2013 and they were only a few tourists in the area .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tourists in the area" from="58" to="77" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="few" from="54" to="56"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was quite a steep walk up to the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="walk up to the wall" from="21" to="39" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="15" to="19"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We could have taken the chair lifts and tobogganed down but decided to stay on our feet .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="chair lifts" from="24" to="34" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>At times , I found the climb difficult and I am quite fit .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="climb" from="23" to="27" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="difficult" from="29" to="37"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Once we arrived at the wall , it was 9 am , the air was crisp and we got panoramic views of the surrounding areas .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="air" from="48" to="50" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="crisp" from="56" to="60"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views of the surrounding areas" from="83" to="112" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="panoramic" from="73" to="81"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We walked from one guard point to another noticing that the sun was at an angle that gave us very long shadows .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guard point" from="19" to="29" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The guide moved us on too quickly , as we wanted to see the Summer Palace and the Hutong area too .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="4" to="8" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Summer Palace" from="60" to="72" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Hutong area" from="82" to="92" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I think you should allow at least two hours to do a decent walk and back .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We also bought crystallised fruit from the vendors that was very nice as well as the souvenirs on offer .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="crystallised fruit" from="15" to="32" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="very nice" from="60" to="68"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="souvenirs" from="85" to="93" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="on offer" from="95" to="102"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is really a lifetime event visiting one of the Wonders of the World .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="one of the Wonders of the World" from="39" to="69" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="a lifetime event" from="13" to="28"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Having been fortunate enough to have visited the Great Wall on numerous occasions , I would say this section of the wall is great if you have limited time and want to have a quick visit to the Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="section of the wall" from="101" to="119" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="124" to="128"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>From here you can easily access the cable car both up and down as well as having the option to do the toboggan if you are feeling adventurous .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="36" to="44" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="easily access" from="18" to="30"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan" from="102" to="109" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="adventurous" from="130" to="140"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Its quite a new / restored part of the Wall and is very touristy , but still gives you a good feel for it as the scenery is beautiful .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="new / restored part of the Wall" from="12" to="42" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="very touristy" from="51" to="63"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="scenery" from="113" to="119" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="beautiful" from="124" to="132"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Of course , it is a great old building , and It protected the China for a long time .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="building" from="30" to="37" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great old" from="20" to="28"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>So I think it is a very important historic site .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="historic site" from="34" to="46" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="important" from="24" to="32"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You have to go upstairs more than 20 minutes to see the site carefully , but there is nothing interesting .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We booked the private van tour from Diper tours for our family of 5 .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="private van tour" from="14" to="29" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A bit pricey at usd105 each but It was all worth it when we got there after 90minutes by car .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>we rode the cable car up the mountain and then explored the Great Wall for 2 hours .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="12" to="20" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="mountain" from="29" to="36" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was tiring but fun .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The other group tours listed at usd 75 or lower might offer a shorter time period at the wall so we booked the private tour .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="group tour" from="10" to="19" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="shorter time period" from="62" to="80"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="private tour" from="111" to="122" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>My teenage sons even went up to the highest point of Mutianyu section, do not miss this .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="highest point of Mutianyu section" from="36" to="68" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="do not miss" from="71" to="81"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>From car park you have to walk up a very steep street , then take elevator to cable car , not working when I was there , so 3 flights of stairs .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="car park" from="5" to="12" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="street" from="47" to="52" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="41" to="45"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="elevator" from="66" to="73" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="cable car" from="78" to="86" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="not working" from="90" to="100"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="stairs" from="137" to="142" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Badaling is busyer but access and views are better .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Badaling" from="0" to="7" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="busyer" from="12" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views" from="34" to="38" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="better" from="44" to="49"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The wall itself is beautiful .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall" from="4" to="7" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="beautiful" from="19" to="27"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It lives up to one's expectations of it .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>From above Mutianyu you can see it snaking along the ridges for miles .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="11" to="18" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The mountains are beautiful .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="mountains" from="4" to="12" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="beautiful" from="18" to="26"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is such a change from smoggy Beijing .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It lifted our spirits .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The Wall is a must-see in China .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="The Wall" from="0" to="7" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="must-see" from="14" to="21"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is an amazing piece of history .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="piece of history" from="19" to="34" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="11" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The numbers behind the time it took to build , the length , the age , the cost and the number of lives lost are mind blowing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="the time it took to build" from="19" to="43" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="mind blowing" from="112" to="123"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="the age" from="60" to="66" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="mind blowing" from="112" to="123"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="the cost" from="70" to="77" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="mind blowing" from="112" to="123"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="the number of lives lost" from="83" to="106" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="mind blowing" from="112" to="123"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Unfortunately though to actually visit it is underwhelming .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We hired a private car and driver ( 600 yuan ) from Beijing and it took 90mins to get there .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="private car" from="11" to="21" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="driver" from="27" to="32" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We went on a Tuesday and there was some rain so there were hardly any people there which was good .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="people" from="70" to="75" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="hardly any" from="59" to="68"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The negatives were - the staff are not friendly ( but this is typical of tourism that we have experienced in Shanghai and Beijing ) and do not speak decent English .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="staff" from="25" to="29" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="not friendly" from="35" to="46"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The part of the wall you see appears to be mostly rebuilt i.e.</text>
+	 	<aspectTerms>
+	 	 	<aspect term="part of the wall" from="4" to="19" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="mostly rebuilt" from="43" to="56"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Not even original .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The fact the wall was built to try and protect people from being killed and in turn 1,000 , 000 people died in the construction of it is just a sad piece of history .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="history" from="157" to="163" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="sad piece" from="144" to="152"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>To top it off we were looking forward to the luge ride downhill at the end but it was shut because of the rain .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="luge ride downhill" from="45" to="62" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Climb the wall but also stay in town and climb the wild wall when all the tourists have gone .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wild wall" from="51" to="59" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The country side is magnificent .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>An abundance of fruit trees line the outside of the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="fruit trees" from="16" to="26" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>food for the town and part of the greening of china .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="food" from="0" to="3" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The wall itself is fine .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="The wall" from="0" to="7" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fine" from="19" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The hawkers are very aggressive and will pull on your clothing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="hawkers" from="4" to="10" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="aggressive" from="21" to="30"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The crowds are too much .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="crowd" from="4" to="8" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="too much" from="15" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The pathways to the site are crowded and dangerous .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="pathways to the site" from="4" to="23" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="crowded and dangerous" from="29" to="49"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I saw one man slip and break his knee .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The chairlift is ruined by repeated loud warnings about the toboggan .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="chairlift" from="4" to="12" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="ruined" from="17" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan" from="60" to="67" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>do not go to this this site when you visit the greta wall, it is terrible .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="this site" from="18" to="26" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="terrible" from="65" to="72"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you are alive today , and old enough to remember a visit , you will not be able to see much of the Great Wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The pollution is awful bring your mask .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="pollution" from="4" to="12" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="awful" from="17" to="21"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>And getting there and back is not much fun either , sitting as you will in hours of stop and go traffic .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="traffic" from="96" to="102" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="sitting as you will in hours" from="52" to="79"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It pains me to say this , but I would not spend my precious tourist dollars in China .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Perhaps my grandchildren will see a post-industrialized China in which those in power decide that it is important to clean up the great environmental disaster they and their progenitors will have created .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>But I have missed my chance to see this and , in their lifetimes , my adult children will not have a chance .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Go elsewhere .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This section of the Wall is not too far from Beijing , so it is easy to access , but it is less busy then Badaling .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I would still recommend an early start from Beijing to beat the crowds that usually arrive after 10 am ( the trip from central Beijing usually takes about 90 minutes by car in the morning ) .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Use one of the gondolas to reach the Wall for great views of the surrounding areas and if you like fun , use the slide / toboggan to come down when you are done .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="gondolas" from="15" to="22" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great views" from="46" to="56"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="slide / toboggan" from="113" to="128" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun" from="99" to="101"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>On the Wall , you can hike either direction for great views , but if you hike East and up to the last renovated tower , you will be also able to see sections of the Wall broken by the ages and by the villagers , who use stones from the Wall for their own houses .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="54" to="58" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="48" to="52"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="last renovated tower" from="97" to="116" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="sections of the Wall" from="149" to="168" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="villagers" from="200" to="208" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Completely rebuilt in the last few decades , not the historical site they make it out to be .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>When reaching the Great Wall , you will be met by thousands of merchants , trying to sell their products .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="merchants" from="63" to="71" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="thousands" from="50" to="58"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Perhaps you do not need a bicycle ringer , or another triple pack of socks , but never mind , they need the few dollars more than you !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>And when you are on the wall , walk a mile or two .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall" from="24" to="27" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Experience the silence !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Enjoy the view !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="view" from="10" to="13" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Enjoy" from="0" to="4"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>and allow yourself to dream back 1000-1500 years back when the wall was built .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>How did they to it ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>How did they manage to get all the building material all the way ?</text>
+	 	<aspectTerms>
+	 	 	<aspect term="building material" from="35" to="51" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Listen again to the silence .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is the peace everyone should experience .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="34" to="43" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="peace" from="12" to="16"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is a TRUE wonder of the world .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This was my 2nd time visiting The Great Wall and last time I went was at the Badaling location .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Badaling location" from="77" to="93" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I prefer the Mutianyu section better because there is lesser people and the car ride to there is not as steep or felt that long than Badaling .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu section" from="13" to="28" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="better" from="30" to="35"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="car ride" from="76" to="83" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="not as steep" from="97" to="108"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It also has the cable car and toboggan to go down if you choose to as well .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="16" to="24" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan" from="30" to="37" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>At the entrance or at the bottom of the wall , there is a Subway and cafe and other restaurants as well .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cafe" from="69" to="72" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="restaurants" from="84" to="94" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I went in Mid September and the weather was amazing for it , not hot or cold and not crowded but maybe due to the non-peak travel time probably .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="weather" from="32" to="38" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="44" to="50"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Either way , I suggest this wall over Badaling in my experience .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A must visit anywhere on this wall though .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Located around 80 km from Beijing the Mutianyu section of the Great Wall is fabulous !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu section" from="38" to="53" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fabulous" from="76" to="83"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Take a cable car up , a lovely ride with beautiful views that spares you a breathless climb .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="7" to="15" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="lovely ride" from="24" to="34"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views" from="51" to="55" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="beautiful" from="41" to="49"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Once on the wall you can easily spend an hour or more walking the wall and admiring the unending wooded canyons and mountain ridges from the watch towers which have been recently renovated .</text>
+	 	<aspectTerms>
+	 	 	<aspect term=" wooded canyons" from="96" to="110" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="admiring" from="75" to="82"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="mountain ridges" from="116" to="130" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="admiring" from="75" to="82"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="watch towers" from="141" to="152" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="renovated" from="179" to="187"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We were there on a clear day and you could see forever .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>what is more there were no crowds .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="crowds" from="27" to="32" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="no" from="24" to="25"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Light snacks , chocolates and sodas were available , but take a bottle of water , you will need it after the walking and climbing !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Light snacks" from="0" to="11" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="chocolates" from="15" to="24" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="sodas" from="30" to="34" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is my 2nd visit to great wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A guide took me there abt 10 years back and I supposed I must have been to badaling .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="2" to="6" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="badaling" from="75" to="82" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>this time because of the toboggan we chose to go mutianyu .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="mutianyu" from="49" to="56" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>unfortunately it was a rainy day and it was not operating .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>so we were disappointed .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>the view of great wall from the chair lift station 6 I feel is pretty limited .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="view of great wall from the chair lift station 6" from="4" to="51" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="pretty limited" from="63" to="76"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I will go back to badaling the next time if I were to go back to great wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="badaling" from="18" to="25" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I went back in march it was stunning I thought it would really cold as it is bit further north but it was a comfortable temp to walk it .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was not really busy either got there fairly early though !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You have to go here if you are visiting Beijing it is a bit further out from the centre of Beijing but it is worth it for those breath taking views .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="142" to="146" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="breath taking" from="128" to="140"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is long but so is the M6 , and that goes on for miles .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>At least you can drive on that and it does the job .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is not a Great Wall , it is an alright wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall" from="42" to="45" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="alright" from="34" to="40"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is the Alright Wall of China .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Wall of China" from="18" to="30" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Alright" from="10" to="16"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The Great Wall is definitely worth a tip .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It also gets you in shape if you safe yourself the money for the lift and walk up and down .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="lift" from="65" to="68" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>My tip is to come in the afternoon or early evening when the sun is low .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Great light for pictures and even more importantly there are hardly any people around then so you have the place almost to yourself .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="light for pictures" from="6" to="23" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Great" from="0" to="4"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It takes about 90 minuets to get here from central Beijing if the traffic is kind , but can take up to three hours with the nutritious Beijing traffic jams .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="traffic" from="143" to="149" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="nutritious Beijing traffic jams" from="124" to="154"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>At tower six there is a fun way to get back to the boten by taking a summer bob sled down .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tower six" from="3" to="11" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="summer bob sled" from="69" to="83" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun" from="24" to="26"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Perhaps is the best to go when is season for it .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I was in November snow fog , Also I would recommend you grab bus or taxi and spent as much time as you want there not like one hour or so and after to visit tea house stone houses .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="bus" from="61" to="63" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="taxi" from="68" to="71" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Tumb of Ming was good .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Tumb of Ming" from="0" to="11" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="good" from="17" to="20"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We had an amazing visit to the Great Wall of China at Mutianyu .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="54" to="61" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing visit" from="10" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We used a private tour guide called Vivi ( Vivi tours ) who was amazing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="private tour guide" from="10" to="27" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="64" to="70"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Vivi was very knowledgeable and spoke excellent english .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>She took my family with two children aged 4 and 6 to the cable cart where the easy ride allowed us to all enjoy the view .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable cart" from="57" to="66" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="easy ride" from="78" to="86"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We were able to walk the wall and then enjoy the ride down on the toboggan which was so much fun we all did it twice !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="toboggan" from="66" to="73" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun" from="93" to="95"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We had the best burger for lunch at the school house .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This was a highlight of our China trip !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Mutianyu is a great section of the Wall to go to if you have young children as there is a chairlift up to the top .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="0" to="7" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="14" to="18"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="chairlift" from="90" to="98" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Unfortunately for us , when we arrived at the wall , it was heavily raining .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The chairlift still operates in rain however they are exposed to the elements so you get very wet .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Be prepared for this .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I always wanted to walk the Great wall of China and was disappointed I did not do it in 2003 when I was in China last although not in Beijing .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Maybe it was anticipation but in the end it was a bust .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>After having visited the leaning tower of Pisa , Venice , the tower of london , Florence , etc .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>this is second rate .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Some of it has been restored and some left to deteriorate .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Nice to walk but a long way to go for a walk .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>90 minutes out and 90 minutes back .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>My two teenage boys felt the same way .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>On the day we went , we were nearly the only ones there which was nice .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A lot of the wall had been reconstructed and was in good shape to walk upon .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I really wanted to see the wall however did not find it as interesting as I expected .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall" from="27" to="30" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="did not find it as interesting" from="40" to="69"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Part of that was that the private guide we were traveling with was not informed about the history .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="private guide" from="26" to="38" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="not informed" from="67" to="78"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>So if we would have had a better guide , I am sure the visit would have been more interesting .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="visit" from="55" to="59" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="would have been more interesting" from="61" to="92"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>visited this section of the wall , as i expected this wall is nothing to do with the old 2000 years history .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="this section of the wall" from="8" to="31" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>but it was very beautiful to see its way through the mountain peaks .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="way through the mountain peaks" from="37" to="66" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="very beautiful" from="11" to="24"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>the wall look recently renovated or rebuilt for tourism purpose .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="the wall" from="0" to="7" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The guide told most of the original wall not exist .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="4" to="8" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="original wall" from="27" to="39" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>if you want to see a proper wall and experience , do not book the wall with shopping ( tea , pearl , etc they wasted our time , just book the wall only , which included food and entrance fee's .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall with shopping" from="66" to="83" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wasted our time" from="110" to="124"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="the wall" from="138" to="145" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="food" from="169" to="172" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="entrance fee's" from="178" to="191" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>about 300 RMB .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The cable car is extra 50 RMB each way and there is a sliding path as well .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="4" to="12" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="sliding path" from="54" to="65" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I recently realised a lifetime's ambition - to stand on the Great Wall , It exceeded my expectations and it was amazing to climb up and see it for myself .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Bear in mind that it is a fairly steep climb , but it is possible to take it fairly slowly .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is a hugely popular tourist attraction and there are lots of people going up and coming down , but nevertheless you can take it at your own pace .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="people" from="64" to="69" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="lots of" from="56" to="62"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There is an alternative route - not well publicised - which is far gentler , less busy and has fewer steps .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We used this path to descend , and there was hardly anyone else walking down it .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is accessed from the tea shop which is just off the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tea shop" from="24" to="31" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Our driver , Wang Ping , was able to accommodate 9 of us in a van for the drive to the Mutianyu access .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="87" to="94" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>He was great and experience fantastic !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="17" to="26" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fantastic" from="28" to="36"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This driver also let us choose another prime tourist site to visit on the way back to Beijing so we were able to see Ming Tombs that day as well !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Ming Tombs" from="117" to="126" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="prime tourist site" from="39" to="56"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>He runs a private taxi service we highly recommend - more info on a website you can access .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>our suggestion is to take the cable car .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="30" to="38" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="suggestion is to take" from="4" to="24"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>take a ticket 2 ways to go and to come back .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ticket" from="7" to="12" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>takes you to the tower 14 and from there you can walk .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tower 14" from="17" to="24" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>the highest point is 18tower .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="18tower" from="21" to="27" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>really ot worth to go .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>one of our best experience .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="16" to="25" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="best" from="11" to="14"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>of coursenit is not necessary to spend long time there .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>2 to 3 hours is enough it is the same as you walk .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>To be honest , I arrived there in a cloudy day with a limited visibility .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="visibility" from="62" to="71" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="limited" from="54" to="60"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Yet , looking at the photos is more impressive than the wall itself .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="photos" from="21" to="26" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="impressive" from="36" to="45"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Be in a good shape to climb there .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We went with my kids today by cable car and were stolen on the photo sale as soon as we arrived at the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="30" to="38" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="photo sale" from="63" to="72" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="stolen" from="49" to="54"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="the wall" from="99" to="106" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>we paid with a 100yens note for two pictures , the seller exchanged the note for another clearly false and returned us demanding that we change for another true note .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We already had another blow from that and we refused .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>a rude man started yelling at us and did not turn up the photos !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>a real steal !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>we did not call the police because it was almost 4pm and our last day in Beijing , but it was terrible , mainly because we are with little children .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="last day" from="61" to="68" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="terrible" from="94" to="101"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>be careful with these boys !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="these boys" from="16" to="25" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="be careful" from="0" to="9"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>a very disappointing experience .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="21" to="30" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="disappointing" from="7" to="19"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Very touristy - you walk for miles through a shopping street before getting to the entrance of the Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="entrance of the Wall" from="83" to="102" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You can walk up or take a lift .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="lift" from="26" to="29" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Plus too many people .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="people" from="14" to="19" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="too many" from="5" to="12"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you can go and see the wall at a more remote location .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is like Disneyland but without the fun .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The whole thing is reconstructed , costs a little fortune to use their cable car and shuttle bus .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="71" to="79" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="costs a little fortune" from="35" to="56"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="shuttle bus" from="85" to="95" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="costs a little fortune" from="35" to="56"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Better to watch a documentary on the National Geographic channel in the comfort of your own home .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Since many years I liked to climb the Great Wall there , coming from the valley , going to the letters up .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="valley" from="73" to="78" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Since 2 years now helicopters flying permanently around and close to the wall to show tourists the Great Wall from bird perspective, It is so loud and annoying !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="helicopters" from="18" to="28" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="loud and annoying" from="142" to="158"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Who give the license for that ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Great Wall is thousands of years old and you should get an impression of its amazing history .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="history" from="85" to="91" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="77" to="83"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Now you only want to run away , What a pity !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This was a wonderful experience of this amazing landmark .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="21" to="30" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wonderful" from="11" to="19"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="landmark" from="48" to="55" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="40" to="46"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We chose to take the cable car up , and then walk down ( mostly downhill , but still some climbing to do ) from there to the section where they have the toboggan slide , which we knew we wanted to do .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="21" to="29" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan slide" from="153" to="166" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wanted" from="187" to="192"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It took at least a couple of hours to trek that distance , but well worth it to spend that time on the wall , and see the views , and really touch a piece of history .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="122" to="126" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="piece of history" from="149" to="164" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Our only regret is that we did not buy another ticket to go up again on the open lift ( like a ski-lift ) and go down one more time.</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Were really glad that we went as early as we could get going in the morning , beating the worst of the crowds ( which were not as bad at this time of year as I am sure they soon will be ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="crowd" from="103" to="107" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="not as bad" from="123" to="132"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The walk to the station number 8 from the entrance was very steep .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="station number 8" from="16" to="31" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="60" to="64"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="entrance" from="42" to="49" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>To those who have difficulty with mobility can take a cable car .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="54" to="62" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>From station 8 travellers can walk to station 1 or to station 23  .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="station 8" from="5" to="13" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="station 1" from="38" to="46" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="station 23" from="54" to="63" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was amazing walking along the great historical wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall" from="50" to="53" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great historical" from="33" to="48"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The only thing my husband did not like about the cable car was , it did not stop completely when we got off .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="49" to="57" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="did not like" from="26" to="37"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I thought it was quite unsafe to jump out of the car .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="car" from="49" to="51" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="unsafe to jump out" from="23" to="40"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Mutianyu , a tourist friendly section of the wall fairly close to the city ( 45 to 1hr 30 minutes depending on the traffic is a good choice if you just want to see the wall and not make a half-day / day long hike of it .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="0" to="7" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="tourist friendly" from="13" to="28"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Mutianuy is in good shape ( renovated partly by a German Stiftung , if I am not mistaken it has nice views , both easy and ( optionally ) steeper sections and it is easy to reach with lifts from the ticketing offices .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianuy" from="0" to="7" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="good shape" from="15" to="24"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views" from="101" to="105" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="nice" from="96" to="99"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="sections" from="146" to="153" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="easy and ( optionally ) steeper" from="114" to="144"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="lifts from the ticketing offices" from="184" to="215" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="easy" from="114" to="117"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Recently they have redone the whole parking and reception area , so it has shops and restaurants for eating and buying souvenirs before or after the walk .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="parking and reception area" from="36" to="61" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="redone" from="19" to="24"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="shops" from="75" to="79" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="restaurants" from="85" to="95" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Convenient is the word coming to my mind first for busy weekend tourists in Beijing .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Mutianyu used to be a good part of the wall to see it in piece , but during last couple of years the tourist crowds have just exploded in here and all the tourist busses come here .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tourist busses" from="155" to="168" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>They have even built a fake old town in front of the wall , which is just really tacky .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="fake old town in front of the wall" from="23" to="56" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="tacky" from="81" to="85"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I would suggest visitors to go to the Yellow Flower City ( Huanghuacheng ) part instead , it is like this part used to be !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Yellow Flower City" from="38" to="55" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="suggest visitors to go" from="8" to="29"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>As soon as you get away from the horrible tourist traps at the foot of the wall , you can start enjoying the amazing views and awe at the vastness of the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tourist traps at the foot of the wall" from="42" to="78" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="horrible" from="33" to="40"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views" from="117" to="121" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="109" to="115"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Make sure to take the slide down !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Well worth the trip , invest in good hiking boots with ankle support if you plan to climb up to the highest elevation .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="trip" from="15" to="18" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="worth" from="5" to="9"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="highest elevation" from="100" to="116" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Be wary of vendors , We talked a lady down from 350 to 80 yuan for a stuffed toy to take home to our kid .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="vendors" from="11" to="17" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Be wary" from="0" to="6"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>HAGGLE , HAGGLE , HAGGLE !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>They start high but will go very low .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The section of wall is just like the rest of the wall , with one exception .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Mutianyu has a tobbogon which is its main attraction .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tobbogon" from="15" to="22" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="main attraction" from="37" to="51"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I went there with my father , our tour guide for the day , David , brought us there knowing that my father was to old to go on the toboggan .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tour guide" from="34" to="43" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>As David pulled into the lot , he told me my father was too old and could not go on the toboggan .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="toboggan" from="88" to="95" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We would have never gone there knowing this .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The rest of the wall at Mutianyu is just like all the other tourist traps along the Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall at Mutianyu" from="16" to="31" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="traps" from="68" to="72"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The wall is amazing in its size and construction , its also amazing that there is an age limit of 59 to go on the toboggan and you have no advance warning .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="size" from="27" to="30" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="12" to="18"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="construction" from="36" to="47" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="12" to="18"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>So if you are over 59 , do not bother with Mutianyu , YOU WILL BE LET DOWN .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="43" to="50" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="LET DOWN" from="66" to="73"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was quite a humbling experience .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="24" to="33" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="humbling" from="15" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I have read a lot about the Great Wall but I do not think any person can imagine how Great is actually is .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Great Wall" from="28" to="37" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Great" from="28" to="32"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is the best of my 5 days trip .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>you can choose to take the cable car or ropeway up to Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="27" to="35" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="ropeway" from="40" to="46" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We took the ropeway up To Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ropeway" from="12" to="18" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is a good experience but little scary .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The scenery was fantastic and it is a must to visit Great Wall when you visit Beijing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="scenery" from="4" to="10" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fantastic" from="16" to="24"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We then took the toboggan down, It was fun .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="toboggan" from="17" to="24" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun" from="39" to="41"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>In September , we visited the Mutianyu Section which is only about 70kms from Beijing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu Section" from="30" to="45" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>From the car park , there is quite a decent walk uphill to the cable car station which stops just below the wall itself .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="car park" from="9" to="16" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="cable car station" from="63" to="79" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Another short walk uphill to a small ( and very expensive ) snack bar with a few tables and chairs .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="snack bar" from="60" to="68" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="expensive" from="48" to="56"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Access to the wall itself is up and over a set of stone steps .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="stone steps" from="50" to="60" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This was very busy - there was no queue system and common courtesy does not exist here .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You need to push your way through otherwise you will be waiting all day for someone to let you in .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Walking along this section of the wall is quite easy and there is enough variation to make it interesting .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The views would have been fantastic , however on the day we visited it was shrouded in smog and visibility was very poor .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="4" to="8" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fantastic" from="26" to="34"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="visibility" from="96" to="105" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="very poor" from="111" to="119"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There are also many restaurants along the road back to the carpark offering a wide choice for lunch .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="restaurants along the road back to the carpark" from="20" to="65" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wide choice for lunch" from="78" to="98"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Quite disappointing if you have been to the more untouched sites , or spotted the ruins out in the countryside between Jiayuguan and the one at the see .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="untouched sites" from="49" to="63" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="disappointing" from="6" to="18"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="ruins out in the countryside" from="82" to="109" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="disappointing" from="6" to="18"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you want to see the typical image of the wall snaking through the hills and do not want to go too far out of your way , you will enjoy it .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="typical image of the wall" from="23" to="47" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="enjoy" from="132" to="136"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you want to see a real historical site , go the one of the less touristed places .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="site" from="37" to="40" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="real historical" from="21" to="35"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you wind up here though , keep walking past the points where it says No entry and it will look a bit more like a ruin ( just with a bit of graffiti ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term=" points where it says No entry" from="50" to="79" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Read the reviews .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Wish i had gone with yuo good folks .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The day i went was very crowded .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Queue for chair lif .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="chair lif" from="10" to="18" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Queue" from="0" to="4"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The wall is impressive , but difficult taking decent pictures with the moving hordes .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Still hey ho another one off the bucket list .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Enjoyed the tobbogan ride down .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tobbogan ride" from="12" to="24" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Enjoy" from="0" to="4"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The Mutianyu part of the wall was average .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu part" from="4" to="16" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="average" from="34" to="40"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Restored and repetitive .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>did not see many other tourists however so that is a plus !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="other tourists" from="17" to="30" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="did not see many" from="0" to="15"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>As imagined , the views were like the many photos I have seen .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="18" to="22" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The journey starts with a 10 minute walk form the parking lot to the ticket center .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="parking lot" from="50" to="60" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="ticket center" from="69" to="81" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You can decide to walk , take a ski lift , or take a cable car to the top of the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ski lift" from="32" to="39" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="cable car" from="53" to="61" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="top of the wall" from="70" to="84" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A walk takes about 1hr , while the other options take 10minutes .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I chose the ski lift , with the tabaggon slide on the way down .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ski lift" from="12" to="19" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="tabaggon" from="32" to="39" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Getting to the top the walk is nearly endless .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Be mindful in advance the many steep steps .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="steps" from="37" to="41" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="many steep" from="26" to="35"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The steep steps vary but can be quite a lot at times .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="steps" from="10" to="14" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="4" to="8"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Because of this , I def recommend not wearing out the legs before making it to the wall , by doing the walking option .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There were many people which made it difficult to get a solo photo , but its one of the most visited places in the world , what did I expect .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="people" from="16" to="21" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="many" from="11" to="14"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="place" from="101" to="105" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="most visited" from="88" to="99"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If adventurous take the tabaggon on the way down .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tabaggon" from="24" to="31" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is a nice memory to have !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The wall is fine but the way chinese present it is awful .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall" from="4" to="7" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fine" from="12" to="15"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="the way chinese present" from="21" to="43" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="awful" from="51" to="55"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Cheap cheesy la la land .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Chinese have a long way to go to appreciate themselves .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Going to Beijing is not complete without a visit to the Great Wall but not just any Great Wall , we all know there are 5 areas of the Great Wall open to tourist and the most famous one is the Badaling Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="5 areas of the Great Wall" from="119" to="143" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Badaling" from="192" to="199" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="most famous" from="169" to="179"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I discovered Mutyanyi in 2011 and it really is the area to go !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutyanyi" from="13" to="20" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="area to go" from="51" to="60"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Imagine the Great Wall all by yourself ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is your moment to take those Selfie and Pics for you Facebook Profile Take this Mutyanyi Great Wall Tour and be in AWE !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Tour" from="105" to="108" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="AWE" from="120" to="122"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This section of the wall has been completely restored , it feels fake .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="section of the wall" from="5" to="23" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="feels fake" from="59" to="68"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is extremely crowded and there are aggressive hawkers everywhere .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="hawkers" from="49" to="55" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="aggressive" from="38" to="47"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>And it is all stairs , stairs going up and stairs going down , stairs on the wall , it is hard on your knees .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Do yourself a favor , travel a little further and go to a better section of the wall like Simatai or Jinshanling .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Simatai" from="90" to="96" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="better section of the wall" from="58" to="83"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Jinshanling" from="101" to="111" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="better section of the wall" from="58" to="83"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you are in decent shape , consider hiring a driver and going out to the JIankou section of the wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is wild , beautiful , few tourists , and the hike fom Zheng Bei Lou to Mutianyu is fairly easy and let us you see both the wild unrestored wall and the restored touristy section .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wild unrestored wall" from="126" to="145" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="restored touristy section" from="155" to="179" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Another experience checked off my bucket list .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We were fortunate to accomplish this on a warmer and sunnier day than usual for late November .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Friends from Beijing drove us here in about 1-1 / 2 hours .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The cable car ride to an upper level was a good start , Especially for me , as a senior with proof of age passport , entrance to all attractions in China are free .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="4" to="12" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="good start" from="43" to="52"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Glad am in good shape for my age of 73 as I managed to climb many steep stairs for the amazing views .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="stairs" from="72" to="77" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="66" to="70"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views" from="95" to="99" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="87" to="93"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I recommend doing the Mutianyu section .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu section" from="22" to="37" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="recommend" from="2" to="10"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>My friends and I have recently visited the Mutianyu Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="43" to="50" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>What a great experience .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="13" to="22" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="7" to="11"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We booked a private car with English speaking guide from greatwalltour2008 at 163.com ( I get this information from one of my co-workers it is the best choice for us ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="private car" from="12" to="22" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="English speaking guide" from="29" to="50" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We rent a Buick Gl8 van to the Mutianyu Great Wall with 850RMB / day with great English-speaking guide together .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="English-speaking guide" from="80" to="101" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="74" to="78"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We took the cable car up and sliding car down, It was wonderful .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="12" to="20" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wonderful" from="54" to="62"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="sliding car" from="29" to="39" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wonderful" from="54" to="62"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The view of the surrounding landscape was breathtaking as well as walking on the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="view of the surrounding landscape" from="4" to="36" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="breathtaking" from="42" to="53"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Walking on the wall is not easy as the steps are all different but you can decide to walk a short distance or long distance depending on your level of fitness .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="steps" from="39" to="43" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="not easy" from="23" to="30"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Our first of three days in Beijing was here at the Great Wall at Mutianyu.</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="65" to="72" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Unfortunately for us , it was super cloudy , rainy , wet , etc .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>All of these combined to make the walking more dangerous the steps were slippery and handrails were essentially non-existent .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="steps" from="61" to="65" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="slippery" from="72" to="79"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="handrails" from="85" to="93" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="non-existent" from="112" to="123"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We did go to watchtowers 14 and 15 , but it seemed to hazardous to go any further .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="watchtowers 14 and 15" from="13" to="33" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A bit crowded and over-restored but it is fine for a quick trip from the city .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I prefer other parts of the wall but if you have kids , are disabled , or do not have much time this is fine .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I arrived at the wall at about 8am .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="the wall" from="13" to="20" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There was so many people there .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>After taking the sky lifts up to wall , nothing but people .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="sky lifts" from="17" to="25" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Non-stop people bumping into you .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is an amazing site to see , with the lack of sun .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>At least I can say I seen the wall , will never go back .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is definitely one of the coolest things I have ever seen and done in my life .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We went there early in the morning together with a guide ( recommended ) and it was already very humid .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="51" to="55" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="recommended" from="59" to="69"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Barely any wind so be sure to bring enough water and a hat or umbrella .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Ask your guide for the tobogganing, Best thing ever !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="guide" from="9" to="13" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="tobogganing" from="23" to="33" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Best thing ever" from="36" to="50"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You can sledge down the Chinese wall which is absolutely crazy and very entertaining , for all ages !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>we took a day trip arranged by hotel to great wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>we took ropeway going up and return .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ropeway" from="8" to="14" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it was challenging to walk up great wall since it was steep .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="great wall" from="30" to="39" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="challenging" from="7" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>no heels please .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>abit difficult for toddler or elderly to walk unless , need to be cautios .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>recommend to go there early .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it was getting crowded when we arrived after lunch .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>could not really take a nice picture cos background and sides cramped with people .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="background and sides" from="41" to="60" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="cramped with people" from="62" to="80"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Ok , I built a just wall , SO ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Why should I be impressed .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Back in my days the walls where more beautiful and they did not have to be so tall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="the walls" from="16" to="24" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="more beautiful" from="32" to="45"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Come one I did not feel good with my leg that day , and my wife really wanted to visit all the Chinese Wall and I said Ok , let us do it !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>, but I soon understood that it was definetely too long for me and I got tired .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I failed in front of my wife because of this wall , so I am not going to be back there .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was good to see this great wall but , you must prepare a good comfortable shoes and a lot of water .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>To me it is just bricks .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We arrived super early and were the second people to take the chair lift up the day we went .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="chair lift" from="62" to="71" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was fabulous almost having the wall to our selves , our photos were amazing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="the wall" from="30" to="37" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fabulous" from="7" to="14"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="photos" from="59" to="64" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="71" to="77"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You do need to be careful , wear good walking shoes and plenty of water .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We came across an accident where a young person had fallen down the steep stairs and injured themselves .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="stairs" from="74" to="79" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="steep" from="68" to="72"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The toboggan ride down was super fun , my children loved it .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You either need to choose the cable car up and down or the chairlift up and toboggan down as they are different companies and have different tickets and are not interchangeable .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="30" to="38" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="chairlift" from="59" to="67" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan" from="76" to="83" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Booked a one day Great wall tour via a linked tripadvisor page , called viator .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>So , it took nearly 2000 years to make , did the Mongol's not figure out a way around during the process ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>At what time did the Chinese realise it was a total waste of time SO WHY IS IT SO GREAT ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The views are Lovely , the wall is a waste of time other than crossing it off your list of things to do .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="the wall" from="23" to="30" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="waste of time" from="37" to="49"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>FREE THINKING .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Great decision to visit this place , because Badaling is too packed with tourist .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Badaling" from="45" to="52" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="too packed with tourist" from="57" to="79"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We did not use any kind of organized travel , since i have heard they waste most of your time in souvenir shops on the way .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="organized travel" from="27" to="42" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="waste most of your time" from="70" to="92"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="souvenir shops" from="97" to="110" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Moreover , they allow you only few hours on the wall , while we wanted to manage our time and be free to explore the reconstructed and not-reconstructed sections of the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="reconstructed and not-reconstructed sections of the wall" from="117" to="172" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We took a bus 916 from Dongzhimen Bus Station , reaching Huairou Beidajie .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="bus" from="10" to="12" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>From there we use a regular taxi .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="regular taxi" from="20" to="31" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Attention to the irregular taxis , which will push to exist the bus earlier than this stop !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Just write the name on a paper in Chinese and ask people around , so not to get tricked .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I gave this a poor review because there are better sections of the great wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I guess if you are limited on time and options , its fine , more of a been there / done that stop .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you have the time check out Simatai , Jiankou , Gubeikou or anything else outside of this and Badaling .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Badaling" from="97" to="104" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is the most frequented because of it is proximity to Beijing , but not the best , there is a cable car and slide down , but its crawling with tourists .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="96" to="104" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="crawling with tourists" from="131" to="152"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="slide down" from="110" to="119" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="crawling with tourists" from="131" to="152"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>That was all I herd on the Mutianyu section of the Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu section" from="27" to="42" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Every 15 to 20 feet there was someone trying to sell you water , postcards , snacks and shouting , If you really want to experience the great wall go further out to a more secluded section , If you are however , pressed for time , like I was , Mutianyu is not bad .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You get to see watchtowers 1-13 I believe and they have a ski lift and gondola to take you to the top and you can luge down the mountainside when you are finished , fun for kids .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="watchtowers 1-13" from="15" to="30" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="ski lift" from="56" to="63" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun" from="161" to="163"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="gondola" from="67" to="73" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun" from="161" to="163"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Also you can find people outside the silk market with small ravel companys that can take you to the Muitanyu section all day for about a third of the cost of going with a tour group you find online and they will collect you from your hotel and you pay at the days end .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="silk market" from="37" to="47" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I feel torn about how to rate this section of the Great Wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="section of the Great Wall" from="35" to="59" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>On one hand , it is a must-do for any visitor to China and it is incredible to witness a part of history for yourself .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>On the other hand , the joy and wonder of the experience is sucked out when you realise that this renovated part of the wall is merely just the setting for a glorified photo shoot for all who visit .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="experience" from="46" to="55" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="joy and wonder" from="24" to="37"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="renovated part of the wall" from="98" to="123" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="sucked out" from="60" to="69"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Have fun dodging photos all day .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I am glad I did it , but I certainly do not feel the need to do it again and I certainly would not visit this part of wall again .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="this part of wall" from="105" to="121" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="would not visit" from="89" to="103"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you are going here , my advice is get a taxi or a private car , or a personal tour .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Avoid the cable car if visiting on a holiday or at the weekend .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The ticket offices tell you that walking takes an hour and the car takes 8 minutes .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ticket office" from="4" to="16" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="car" from="63" to="65" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Walking did not even take half that , and the cable cars can be over an hour in the queue at busy times .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This is probably a lot better than Badging as it is a bit quieter .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Costs about 15 to go in and you need to be fit as there are a lot of steps .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="steps" from="69" to="73" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="a lot of" from="60" to="67"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There are plenty of places to eat if you want to .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This was my second visit to the Great Wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The 1st was at Badaling and the 2nd at Mutianyu section during winter .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Badaling" from="15" to="22" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Mutianyu section" from="39" to="54" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Other than the cold weather , there were no queues to the cable car and toboggan .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="weather" from="20" to="26" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="cold" from="15" to="18"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="queues to the cable car and toboggan" from="44" to="79" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="no" from="41" to="42"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We were able to explore the Great Wall at leisure without any crowd at all and took pictures without anyone in the background .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="pictures" from="84" to="91" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="without anyone" from="93" to="106"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Conserve energy to explore the wall sections by using the cable car on the way up .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="58" to="66" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Even though the Great Wall is a must see , this areas is very touristy .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="this area" from="43" to="51" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="very touristy" from="57" to="69"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you have limited time , I would suggest going early to avoid the crowds and the souvenir vendors ( who can truly drive you mad ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="crowd" from="68" to="72" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="avoid" from="58" to="62"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="souvenir vendor" from="83" to="97" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="drive you mad" from="116" to="128"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The May Day weekend was not a great time to go to the wall as we spent 6 hours in traffic and about 1 hour visiting , however it is a spectacular site .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="site" from="146" to="149" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="spectacular" from="134" to="144"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It did drizzle which reduced visibility , however it was the crowds that were overwhelming .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="crowd" from="61" to="65" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="overwhelming" from="78" to="89"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There is a hell of a lot of queing , lining up and waiting and the Chinese who make up 98 % of visitors love to queue jump and push in front .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="queing" from="28" to="33" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="hell of a lot" from="11" to="23"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You would not miss seeing it but leave early and be prepared for the crowds .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The Great Wall is well , great .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Great Wall" from="4" to="13" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="25" to="29"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Mutianyu is the tourist trap that you should avoid like a rotting corpse made to look more festive by the addition of a sombrero .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="0" to="7" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="tourist trap" from="16" to="27"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There are so many other amazing parts of the wall you can hike , explore , and avoid the other 10,000 people trying to squeeze into the space of a high school corridor .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="parts of the wall" from="32" to="48" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="24" to="30"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This part of the Great Wall is less crowded than the Balading part .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="part of the Great Wall" from="5" to="26" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="less crowded" from="31" to="42"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>At the ticket office , there is shuttle bus taking visitors to the foot of the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ticket office" from="7" to="19" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="shuttle bus" from="32" to="42" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>From the visitor can clim up to the observation tower by stair steps ( very strenuous walk ) , cable car .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="observation tower" from="36" to="52" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="stair steps" from="57" to="67" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="strenuous walk" from="76" to="89"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="cable car" from="95" to="103" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is spectacular panoramic view on the tower .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="view on the tower" from="28" to="44" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="spectacular" from="6" to="16"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Descent down can use cable car , stair steps and toboggan ( fun ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="21" to="29" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="stair steps" from="33" to="43" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="toboggan" from="49" to="56" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun" from="60" to="62"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There is free certificate issued by the Wall authority to certify that you had mount the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="certificate" from="14" to="24" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you must go to a tourist section of the Wall , this is about as good as it gets .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tourist section of the Wall" from="20" to="46" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="as good as it gets" from="64" to="81"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you visit and are fit, go up to the Wall , turn left and walk .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Simply go for half your available time , then turn around .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you have more than 2 hours you will pass the end of the renovated section .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="renovated section" from="59" to="75" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The world does not end there , so keep going .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Again , and only if you are fit , do not go there at all .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Do a hike with Beijing Hikers to an un-renovated section .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="un-renovated section" from="36" to="55" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>( I work part time for them as a hiking guide ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="hiking guide" from="33" to="44" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Mutianyu is definitely a part of the Great Wall that you can go to tick the box and say that you have been to the Great Wall, its relatively close to Beijing and will not take more than 20 mins to see .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is completely refurbished so it looks brand new , which i found a bit disappointing because it takes away from the authenticity of the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="looks" from="35" to="39" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="disappointing" from="73" to="85"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="authenticity of the wall" from="118" to="141" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="takes away" from="98" to="107"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it is really not that bad of a climb , maybe 15 mins up a hill until you get to the wall , but there is a chair lift that takes about two or three minutes .</text>
+	 	<aspectTerms>
+	 	 	<aspect term=" chair lift" from="105" to="115" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>As a Chinese reviewer previously said , it is a bit of China-grandiose-achievement meet Disneyland .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This area of the wall is totally a 20th Century copy , nothing original .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="area of the wall" from="5" to="20" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="20th Century copy" from="35" to="51"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The crowds are oppressive .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="crowds" from="4" to="9" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="oppressive" from="15" to="24"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>While the views are nice , you do not need to go to wall to get these in China .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="views" from="10" to="14" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="nice" from="20" to="23"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is not worth taking the time ( 1 1 / 2 to 2 hours each way ) while in Beijing .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There are better things to do .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>This area is not very crowded , and in spots we had the place to ourselves .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is necessary to take a cable car up to the site .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="26" to="34" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Once there , the vistas are amazing !</text>
+	 	<aspectTerms>
+	 	 	<aspect term="vistas" from="17" to="22" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="amazing" from="28" to="34"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Imaging ancient battles on this wall gave us goose bumps .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="ancient battles on this wall" from="8" to="35" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="gave us goose bumps" from="37" to="55"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The towers were a haven in the heat .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Bring sunscreen , sunglasses , a hat and WATER !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>First , the visit to the Mutianyu section of the Great Wall was great once you get past all the souvenir hawkers .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu section" from="25" to="40" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="64" to="68"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>And the tour guide Botrip arranged was fun and enthusiastic .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tour guide" from="8" to="17" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="fun and enthusiastic" from="39" to="58"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>But as you can see from the photo of the brochure Botrip advertises its tours as including Jade and Silk Short Shopping ( 30 minutes ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Jade and Silk Short Shopping" from="91" to="118" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>What we actually got was 45 minutes at a jade shop in the morning and 30-45 minutes of a silk shop .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="jade shop" from="41" to="49" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="silk shop" from="89" to="97" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Employees at both places were rather desperate to sell us stuff we clearly did not want .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Employees" from="0" to="8" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="desperate" from="37" to="45"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Their hard sell techniques , combined with the time we lost getting to and from the shops made this trip a disappointment over all , but like I said , this part of the wall is great to visit .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="trip" from="100" to="103" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="disappointment over all" from="107" to="129"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term=" part of the wall" from="155" to="171" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great to visit" from="176" to="189"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was not the site that sucked , just Botrip's false advertising of the tours that they offer .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>They made a tourist park from this part of the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tourist park" from="12" to="23" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It includes a toboggan-ride , a ski-style lift and a 1 km walk full of shops and eateries .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="toboggan-ride" from="14" to="26" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="ski-style lift" from="32" to="45" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="shops" from="71" to="75" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="eateries" from="81" to="88" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Typical China to turn something from art-history into Disneyland .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Huhm , rip-off or turn-off ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Not sure ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The day we went it was very low cloud with fine rain .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The cloud was so low that we could not actually see the top of the towers .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It was very crowded with Chinese tourists and the queues for everything were lengthy to say the least .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="queues" from="50" to="55" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="lengthy" from="77" to="83"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We travel independantly so were not with an organised tour guide which meant we braved the travel and the wall by ourselves .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="organised tour guide" from="44" to="63" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="the wall" from="102" to="109" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There are not many signs in English for foreign tourists so it was quite difficult to get around but it is possible .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="signs in English" from="19" to="34" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="not many" from="10" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The walk along the wall involves a lot of steep climbing and it certainly gets the heart pounding !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>As for the views , we could barely see one side of the wall to the other so there were no photo opportunites , just us looking wet in the grey weather which reminded us of home .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="view" from="11" to="14" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="could barely see" from="22" to="37"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="weather" from="143" to="149" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="grey" from="138" to="141"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The wall is interesting and once you are up there , it is worth walking the length of the thing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="The wall" from="0" to="7" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="interesting" from="12" to="22"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="the length of the thing" from="72" to="94" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="worth walking" from="58" to="70"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The view from the far end was really incredibly .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="view from the far end" from="4" to="24" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="incredibly" from="37" to="46"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Best to go on a clear day .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>When we went it seemed like an okay day , but it was too hazy , which I have learnt is very common .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="day" from="36" to="38" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="too hazy" from="53" to="60"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>To walk along the whole section , which like I said is worth doing , took a couple of hours ( with many photo-stops ) and I would have liked a good pair of runners and shorts .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="walk along the whole section" from="3" to="30" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="worth doing" from="55" to="65"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="photo-stops" from="104" to="114" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>There is nothing of note below the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="below the wall" from="25" to="38" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="nothing of note" from="9" to="23"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The luge really sucked because the Chinese went so slow on it that it was constantly jammed up .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The shops are all ripoffs too .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="The shops" from="0" to="8" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="ripoffs" from="18" to="24"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is easy to find a driver to Beijing or , as we did , to bus stop which was maybe 20 minutes away .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="driver" from="21" to="26" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="easy to find" from="6" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="bus stop" from="59" to="66" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I had the bad luck of having only one day to visit after a business trip - which happened to be a Red Alert day for smog in Beijing .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Red Alert day" from="98" to="110" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="bad luck" from="10" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I figured 1.5 hours way , the air might be clearer ?</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I was wrong !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I could barely see anything , it was really disappointing .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Just wanted to provide an advisory - wait until the smog clears before you go !</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>, ) .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We feel unsafe the whole time and it was a complete scam , fellow tourist please be vigilant for all kind of scam in China .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We sign up a one day trip to the Great Wall Badaling and Ming Tomb , we were only allowed 1.5 hours to see the Great Wall and passed by the Ming Tomb .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Badaling" from="44" to="51" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Ming Tomb" from="140" to="148" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Together with another 30 + tourist on the bus we were not allow to get down so see the Ming Tomb .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Spend the rest of the time visiting Jade Shop and Candy Shop .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Jade Shop" from="36" to="44" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="Candy Shop" from="50" to="59" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We we pressured to buy things .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Further another jade Shop appear to be run by some local mafia , just complete waste of time .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="jade Shop" from="16" to="24" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="waste of time" from="79" to="91"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="local mafia" from="51" to="61" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We could not come to Beijing and not visit the great wall .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We visited the mutianyu section of the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="mutianyu section" from="15" to="30" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A cable car takes you to the wall itslef with some lovely views on the way .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="2" to="10" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views" from="58" to="62" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="lovely" from="51" to="56"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The wall itself is breath taking in its scale .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall" from="4" to="7" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="breath taking" from="19" to="31"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>It is quite a long section and surprisingly steep in some sections so be prepared for that .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>A must see .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you visit China .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The first place you must go .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Bring water bottles if you wish to walk along the wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="water bottles" from="6" to="18" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Make sure that you go to Mutianyu .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Travel Agent might take to another place of wall .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Travel Agent" from="0" to="11" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Confirm with them that you are going to Mutianyu .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Mutianyu" from="40" to="47" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Since I have only 1 night stopover , I prebooked private van for 4 pax for RMB700 a few days earlier .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="private van" from="49" to="59" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Sadly weather was bad that morning .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="weather" from="6" to="12" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="bad" from="18" to="20"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>We left our hotel about 7am and got there about 2 hours later .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The cable cars ride are closed for the day due to weather .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable cars ride" from="4" to="18" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Place were crowded and limited access to information .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Place" from="0" to="4" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="crowded" from="11" to="17"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>If you have to see the Great Wall this is ok .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Great Wall" from="23" to="32" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="ok" from="42" to="43"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Better is Simatai .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="Simatai" from="10" to="16" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Better" from="0" to="5"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The basic problem is there are a ton of people here .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Of you can go on a quiet day its bearable .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>it will never be as bad as badaling but its close .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="badaling" from="27" to="34" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="as bad as" from="17" to="25"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Firstly I would just like to say that the tour company that took my family and me to the wall were great .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="tour company" from="42" to="53" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="99" to="103"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Good service and helpful advice .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Thumbs up to Mubus ( I guess it is Mu as in Mutianyu ) .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>While the wall and scenery were great I found the food there to be less than amazing ( I would rather eat a sandwich from the Subway restaurant that was also there ) .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="wall" from="10" to="13" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="32" to="36"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="scenery" from="19" to="25" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="great" from="32" to="36"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="food" from="50" to="53" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="less than amazing" from="67" to="83"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I thought it could be fun to say in the hotel located right at the front gate , but their prices were way too expensive and each room had windows that are easily looked into by the public .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>I was also surprised that the cable car and chairlift services inside are operated by two separate companies .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="cable car" from="30" to="38" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="chairlift" from="44" to="52" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Be careful when booking the service you want .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>My advice is to take your own food , stay in one of the nicer hotels nearby , .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Incredible scenery , with wonderful landscapes and views .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="scenery" from="11" to="17" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="Incredible" from="0" to="9"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="landscapes" from="36" to="45" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wonderful" from="26" to="34"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	 	<aspect term="views" from="51" to="55" polarity="positive">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="wonderful" from="26" to="34"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>You have to be in good shape since there lots of steps , with irregular big sizes to climb .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="steps" from="49" to="53" polarity="negative">
+	 	 	 	<opinions>
+	 	 	 	 	<opinionTerm term="lots of" from="41" to="47"/>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>After a 10 hours flight it was it was a bit challenging for us , so get yourself a rest on the first day in Beijing , and try to go to the Great Wall on the second day of your schedule is ok .</text>
+	 	<aspectTerms>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>Mutianyu is not the more authentic section , since there are lot of areas with rebuilt wall , but is a quiet one , specially if you arrive early , which I strongly advise .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="areas with rebuilt wall" from="68" to="90" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+	<sentence>
+	 	<text>The door opens at 8 am so you better try to be there near that time if you can .</text>
+	 	<aspectTerms>
+	 	 	<aspect term="door" from="4" to="7" polarity="neutral">
+	 	 	 	<opinions>
+	 	 	 	</opinions>
+	 	 	</aspect>
+	 	</aspectTerms>
+	</sentence>
+</sentences>
